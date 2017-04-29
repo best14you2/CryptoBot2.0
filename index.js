@@ -1,4 +1,4 @@
-// https://discordapp.com/oauth2/authorize?&client_id=305469838212464641&scope=bot&permissions=0
+// https://discordapp.com/oauth2/authorize?&client_id=305469838212464600&scope=bot&permissions=0
 var Discord = require('discord.io');
 var polo = require("poloniex-unofficial");
 var request = require('request');
